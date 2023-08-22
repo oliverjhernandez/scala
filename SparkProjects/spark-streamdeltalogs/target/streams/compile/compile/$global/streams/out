@@ -1,0 +1,22 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/olhernandez/MEGAsync/Languages/Scala/SparkProjects/spark-streamdeltalogs/src/main/scala/local/cwc/streamdeltalog/DeltaLogMain.scala:6:35: object kafka010 is not a member of package org.apache.spark.streaming[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.streaming.kafka010.{ConsumerStrategies, KafkaUtils, LocationStrategies}[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/olhernandez/MEGAsync/Languages/Scala/SparkProjects/spark-streamdeltalogs/src/main/scala/local/cwc/streamdeltalog/DeltaLogMain.scala:8:12: object elasticsearch is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.elasticsearch.spark._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/olhernandez/MEGAsync/Languages/Scala/SparkProjects/spark-streamdeltalogs/src/main/scala/local/cwc/streamdeltalog/DeltaLogMain.scala:34:37: not found: type StringDeserializer[0m
+[0m[[0m[31merror[0m] [0m[0m      "key.deserializer" -> classOf[StringDeserializer],[0m
+[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/olhernandez/MEGAsync/Languages/Scala/SparkProjects/spark-streamdeltalogs/src/main/scala/local/cwc/streamdeltalog/DeltaLogMain.scala:35:39: not found: type StringDeserializer[0m
+[0m[[0m[31merror[0m] [0m[0m      "value.deserializer" -> classOf[StringDeserializer],[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/olhernandez/MEGAsync/Languages/Scala/SparkProjects/spark-streamdeltalogs/src/main/scala/local/cwc/streamdeltalog/DeltaLogMain.scala:38:20: not found: value KafkaUtils[0m
+[0m[[0m[31merror[0m] [0m[0m    val messages = KafkaUtils.createDirectStream[String, String]([0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/olhernandez/MEGAsync/Languages/Scala/SparkProjects/spark-streamdeltalogs/src/main/scala/local/cwc/streamdeltalog/DeltaLogMain.scala:40:7: not found: value LocationStrategies[0m
+[0m[[0m[31merror[0m] [0m[0m      LocationStrategies.PreferConsistent,[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/olhernandez/MEGAsync/Languages/Scala/SparkProjects/spark-streamdeltalogs/src/main/scala/local/cwc/streamdeltalog/DeltaLogMain.scala:41:7: not found: value ConsumerStrategies[0m
+[0m[[0m[31merror[0m] [0m[0m      ConsumerStrategies.Subscribe[String,String](topic, kafkaParams)[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m7 errors found[0m

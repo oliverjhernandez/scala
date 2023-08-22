@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spark-streamatsvspplog
+Implementation-Version: 0.1
+Specification-Vendor: local.cwc
+Specification-Title: spark-streamatsvspplog
+Implementation-Vendor-Id: local.cwc
+Specification-Version: 0.1
+Implementation-Vendor: local.cwc
+Main-Class: local.cwc.streamatsvspplog.ATSLogMain
+

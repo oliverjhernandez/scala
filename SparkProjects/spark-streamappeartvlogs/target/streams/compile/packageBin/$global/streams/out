@@ -1,0 +1,31 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/olhernandez/MEGAsync/Languages/Scala/SparkProjects/spark-streamappeartvlogs/target/scala-2.11/spark-streamappeartvlogs_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	local/cwc/streamappeartvlogs/ATVLogMain$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/olhernandez/MEGAsync/Languages/Scala/SparkProjects/spark-streamappeartvlogs/target/scala-2.11/classes/local/cwc/streamappeartvlogs/ATVLogMain$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	local/cwc/streamappeartvlogs/ATVLogMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/olhernandez/MEGAsync/Languages/Scala/SparkProjects/spark-streamappeartvlogs/target/scala-2.11/classes/local/cwc/streamappeartvlogs/ATVLogMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	local[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/olhernandez/MEGAsync/Languages/Scala/SparkProjects/spark-streamappeartvlogs/target/scala-2.11/classes/local[0m
+[0m[[0m[0mdebug[0m] [0m[0m	local/cwc/streamappeartvlogs/ATVLogMain$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/olhernandez/MEGAsync/Languages/Scala/SparkProjects/spark-streamappeartvlogs/target/scala-2.11/classes/local/cwc/streamappeartvlogs/ATVLogMain$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	local/cwc/streamappeartvlogs/Maps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/olhernandez/MEGAsync/Languages/Scala/SparkProjects/spark-streamappeartvlogs/target/scala-2.11/classes/local/cwc/streamappeartvlogs/Maps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	local/cwc/streamappeartvlogs/Regex$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/olhernandez/MEGAsync/Languages/Scala/SparkProjects/spark-streamappeartvlogs/target/scala-2.11/classes/local/cwc/streamappeartvlogs/Regex$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	local/cwc/streamappeartvlogs[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/olhernandez/MEGAsync/Languages/Scala/SparkProjects/spark-streamappeartvlogs/target/scala-2.11/classes/local/cwc/streamappeartvlogs[0m
+[0m[[0m[0mdebug[0m] [0m[0m	local/cwc/streamappeartvlogs/Parser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/olhernandez/MEGAsync/Languages/Scala/SparkProjects/spark-streamappeartvlogs/target/scala-2.11/classes/local/cwc/streamappeartvlogs/Parser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	local/cwc/streamappeartvlogs/Parser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/olhernandez/MEGAsync/Languages/Scala/SparkProjects/spark-streamappeartvlogs/target/scala-2.11/classes/local/cwc/streamappeartvlogs/Parser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	local/cwc/streamappeartvlogs/Regex.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/olhernandez/MEGAsync/Languages/Scala/SparkProjects/spark-streamappeartvlogs/target/scala-2.11/classes/local/cwc/streamappeartvlogs/Regex.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	local/cwc/streamappeartvlogs/ATVLogMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/olhernandez/MEGAsync/Languages/Scala/SparkProjects/spark-streamappeartvlogs/target/scala-2.11/classes/local/cwc/streamappeartvlogs/ATVLogMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	log4j.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/olhernandez/MEGAsync/Languages/Scala/SparkProjects/spark-streamappeartvlogs/target/scala-2.11/classes/log4j.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	local/cwc/streamappeartvlogs/Maps$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/olhernandez/MEGAsync/Languages/Scala/SparkProjects/spark-streamappeartvlogs/target/scala-2.11/classes/local/cwc/streamappeartvlogs/Maps$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	local/cwc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/olhernandez/MEGAsync/Languages/Scala/SparkProjects/spark-streamappeartvlogs/target/scala-2.11/classes/local/cwc[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
